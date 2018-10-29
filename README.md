@@ -1,0 +1,1 @@
+# VTChain.WalletWPF
